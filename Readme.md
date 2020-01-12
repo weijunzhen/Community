@@ -1,11 +1,12 @@
 ##A zhen讲座
 
 ##资料
-https://spring.io
-https://spring.io/guides
-https://spring.io/guides/gs/serving-web-content/
-https://www.runoob.com/git/git-workspace-index-repo.html
-https://blog.csdn.net/themagickeyjianan/article/details/79683980
-
+[Spirng 文档](https://spring.io)
+[Spring 文档](https://spring.io/guides)
+[Spring Web](https://spring.io/guides/gs/serving-web-content/)
+[git command](https://www.runoob.com/git/git-workspace-index-repo.html)
+[git command](https://blog.csdn.net/themagickeyjianan/article/details/79683980)
+[GitHub QAuth](https://developer.github.com/apps/building-github-apps/)
 ##工具
-https://git-scm.com/
+[git](https://git-scm.com/)
+[Visual Paradigm](https://www.visual-paradigm.com)

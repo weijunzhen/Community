@@ -7,6 +7,7 @@
 [git command](https://www.runoob.com/git/git-workspace-index-repo.html)
 [git command](https://blog.csdn.net/themagickeyjianan/article/details/79683980)
 [GitHub QAuth](https://developer.github.com/apps/building-github-apps/)
+[differents from get and post](https://www.cnblogs.com/logsharing/p/8448446.html)
 ##工具
 [git](https://git-scm.com/)
 [Visual Paradigm](https://www.visual-paradigm.com)
